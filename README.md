@@ -6,7 +6,7 @@
 - :guitar: - I love to play/write music! :metal:
 
 #### Number of visitors to this page and repos:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=#78556191)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)
 
 #### My Codewards profile badge:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
