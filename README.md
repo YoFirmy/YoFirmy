@@ -15,10 +15,10 @@
 <img align="left" alt="HTML" width="30px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />
 <img align="left" alt="CSS" width="30px" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" />
 <img align="left" alt="Ruby" width="30px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
-<img align="left" alt="Ruby" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
+<img align="left" alt="Javascript" width="30px" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />
+<img align="left" alt="Rails" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
 <img align="left" alt="Git" width="30px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
-<img align="left" alt="Git" width="30px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
-<br>
+<img align="left" alt="Github" width="30px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 <br>
 
 ## Contents
