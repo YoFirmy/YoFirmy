@@ -7,10 +7,9 @@
 
 #### Number of visitors to this page and repos:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)
-
 #### My Codewards profile badge:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
-
+### Languages and tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png" />
 <img align="left" alt="HTML" width="30px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />
 <img align="left" alt="CSS" width="30px" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" />
