@@ -16,6 +16,8 @@
 <img align="left" alt="Ruby" width="30px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
 <img align="left" alt="Javascript" width="30px" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />
 <img align="left" alt="Rails" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
+<img align="left" alt="ReactJS" width="30px" src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" />
+<img align="left" alt="NodeJS" width="30px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
 <img align="left" alt="Git" width="30px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
 <img align="left" alt="Github" width="30px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 <br>
