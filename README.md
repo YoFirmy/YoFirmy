@@ -1,6 +1,6 @@
 ## Hi, I'm Matt :v:
-- :books: - I'm currently a student at [Makers Academy](https://makers.tech/)
-- :seedling: - I'm currently learning to create Sinatra web applications
+- :seedling: - I'm just finished studying at [Makers Academy](https://makers.tech/)
+- :computer: - I'm currently looking for a Junior developer role
 - :dart: - My aim is to become a full stack web developer
 - :dancers: - I love to collaborate
 - :guitar: - I love to play/write music! :metal:
@@ -35,17 +35,17 @@
 **Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
 
 ## Education
-#### Makers Academy (June 2021 to current)
-- Started working with ruby
-- Learnt how to use TDD
-- Started learning how to Sinatra to create web apps with ruby
-- I'm going to learn so much more!
+#### Makers Academy (June to September 2021)
+- Primarily used Ruby but also worked with javascript.
+- Also used frameworks/tools such as Ruby on Rails, React.js and Node.js.
+- Learnt to use professional practices such as TDD.
+- Learnt to code as part of a team.
 
 #### ICMP/K college
-- BA Contemporary Music Performance
-- Grade: Distinction
-- Developed skills as a session musician and band leader
-- Still play/write music today (see [Band of Wizzards](https://soundcloud.com/bandofwizzards/))
+- BA Contemporary Music Performance.
+- Grade: Distinction.
+- Developed skills as a session musician and band leader.
+- Still play/write music today (see [Band of Wizzards](https://soundcloud.com/bandofwizzards/)).
 
 ## Work experience
 **Oddballs** (March 2018 to June 2021)  
