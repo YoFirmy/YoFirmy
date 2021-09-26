@@ -1,7 +1,7 @@
 ## Hi, I'm Matt :v:
 - :seedling: - I'm just finished studying at [Makers Academy](https://makers.tech/)
-- :computer: - I'm currently looking for a Junior developer role
-- :dart: - My aim is to become a full stack web developer
+- :computer: - I'm currently looking for a Junior Developer role
+- :dart: - My aim is to become a full stack Developer
 - :dancers: - I love to collaborate
 - :guitar: - I love to play/write music! :metal:
 
