@@ -11,7 +11,7 @@
   <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />&nbsp;&nbsp;
   <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />&nbsp;&nbsp;
 </div>
-
+<br/>
 - :seedling: - I just finished a coding bookcamp with [Makers Academy](https://makers.tech/)
 - :computer: - I'm currently looking for a Junior Developer role
 - :dart: - My aim is to become a full stack Developer
@@ -19,6 +19,7 @@
 - :guitar: - I love to play/write music! :metal:
 
 <!---![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)--->
+---
 
 <div align='center'>
 
