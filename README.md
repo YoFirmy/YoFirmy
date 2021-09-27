@@ -17,16 +17,16 @@
 <div align='center'>
   
   <h2>Languages and tools:</h2>
-  <img alt="Visual Studio Code" width="50px" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png" />
-  <img alt="HTML" width="50px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />
-  <img alt="CSS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" />
-  <img alt="Ruby" width="50px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
-  <img alt="Javascript" width="50px" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />
-  <img alt="Rails" width="50px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
-  <img alt="ReactJS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" />
-  <img alt="NodeJS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
-  <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
-  <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
+  <img alt="Visual Studio Code" width="50px" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png" />&nbsp;
+  <img alt="HTML" width="50px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />&nbsp;
+  <img alt="CSS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" />&nbsp;
+  <img alt="Ruby" width="50px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />&nbsp;
+  <img alt="Javascript" width="50px" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />&nbsp;
+  <img alt="Rails" width="50px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />&nbsp;
+  <img alt="ReactJS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" />&nbsp;
+  <img alt="NodeJS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />&nbsp;
+  <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />&nbsp;
+  <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />&nbsp;
 
 </div>
 
