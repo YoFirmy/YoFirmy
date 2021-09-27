@@ -12,7 +12,6 @@
 - :guitar: - I love to play/write music! :metal:
 
 <!---![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)--->
-![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
 <div align='center'>
   
@@ -35,7 +34,8 @@
 
 **Leadership:** My last two previous jobs were in management. I feel I did well in those roles because I learnt how to balance the importance of leading by example and also knowing when to delegate.
 
-**Problem solving:** I problem solve on a daily basis as I love playing games that utalise problem solving. I solve rubik's cubes, nonograms, codewars and cssbattle challenges.
+**Problem solving:** I problem solve on a daily basis as I love playing games that utalise problem solving. I solve rubik's cubes, nonograms, codewars and cssbattle challenges. Here is my codewars badge:
+![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
 **Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
 
