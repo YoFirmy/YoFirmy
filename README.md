@@ -27,13 +27,13 @@
 </div>
 
 ## Background
-I started coding in November 2020. I had alway been a fan of learning new skills (see the [Hobbies](#hobbies) section) so coding was just another skill to add to my repertoire. After a few months I had already learnt to build basic web applications and realised this was something that I wanted to do fulltime.
+I started coding in November 2020. I have always been a fan of learning new skills (see the [Hobbies](#hobbies) section) so coding was just another skill to add to my repertoire. After a few months I had already learnt to build basic web applications and realised this was something that I wanted to do full time.
 I applied to study with Makers Academy where I not only developed my coding knowledge but also learnt to use good coding practices (see the [Education](#education) section). I have also taken on the role of mentoring two current Makers students so I can share what I've learnt and continue to practice what knowledge I gained while there.
 
 Before Makers I was a toy specialist, working in renowned toy stores in London. I gained a lot of customer service and management skills which I know will continue to serve me in the future.
 
 ## Skills
-**Languages/tools:** I mainly default to Ruby and the Ruby on Rails framework, but I also feel comfortable writting in plain HTML and love experimenting with CSS to get interesting designs and visuals. I have used a fair amount of JavaScript as well and would like to continue developing my skills with it.
+**Languages/tools:** I mainly default to Ruby and the Ruby on Rails framework, but I also feel comfortable writing in plain HTML and love experimenting with CSS to get interesting designs and visuals. I have used a fair amount of JavaScript as well and would like to continue developing my skills with it.
 
 **Leadership:** My last two previous jobs were in management. I feel I did well in those roles because I learnt how to balance the importance of leading by example and also knowing when to delegate.
 
@@ -41,7 +41,7 @@ Before Makers I was a toy specialist, working in renowned toy stores in London. 
 <br/><br/>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
-**Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
+**Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of a team or by myself and can do well with both.
 
 ## Projects
 | Project | Description | Technologies | Testing |
