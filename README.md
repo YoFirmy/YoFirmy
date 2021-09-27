@@ -39,6 +39,13 @@
 
 **Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
 
+## Work experience
+**Oddballs** (March 2018 to June 2021)  
+_Store Manager_
+
+**Hamleys** (October 2014 to March 2018)  
+_Toy Expert_
+
 ## Education
 #### Makers Academy (June to September 2021)
 - Primarily used Ruby but also worked with javascript.
@@ -52,17 +59,10 @@
 - Developed skills as a session musician and band leader.
 - Still play/write music today (see [Band of Wizzards](https://soundcloud.com/bandofwizzards/)).
 
-## Work experience
-**Oddballs** (March 2018 to June 2021)  
-_Store Manager_
-
-**Hamleys** (October 2014 to March 2018)  
-_Toy Expert_
-
 ## Hobbies
 **Skateboarding:** Skateboarding has taught me resilience. In order to learn new tricks I constantly have to put myself at risk of injury, and therefore, further outside of my comfort zone. Although skateboarding is a very physical activity, it's biggest challenge is a mental one: Battling with fear, which helps me to better myself in all aspects of life.
 
 **Circus:** I love learning new skills. My favorite circus skill is passing clubs; Learning to juggle as a pair (or even a group). It's always fun sharing new tricks and ideas, and there seems like no limit to the possibilities.
 
 ## Where to find me
-[Intagram](https://www.instagram.com/mattfirmston/) | [Codewars](https://www.codewars.com/users/YoFirmy) | [CSS battle](https://cssbattle.dev/player/yofirmy) | [Stack overflow](https://stackoverflow.com/users/15154036/yofirmy)
+[LinkedIn](https://www.linkedin.com/in/matt-firmston-43b751221/) | [Intagram](https://www.instagram.com/mattfirmston/) | [Codewars](https://www.codewars.com/users/YoFirmy) | [CSS battle](https://cssbattle.dev/player/yofirmy) | [Stack overflow](https://stackoverflow.com/users/15154036/yofirmy)
