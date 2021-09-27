@@ -1,4 +1,4 @@
-<h1 algin='center'>Matt Firmston</h1>
+<h1 align='center'>Matt Firmston</h1>
 
 - :seedling: - I just finished a coding bookcamp with [Makers Academy](https://makers.tech/)
 - :computer: - I'm currently looking for a Junior Developer role
