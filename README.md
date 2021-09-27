@@ -22,7 +22,7 @@
 
 <div align='center'>
 
-[Background](#background) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Where to find me](#Where-to-find-me)
+[Background](#background) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Where to find me](#Where-to-find-me)
   
 </div>
 
@@ -42,6 +42,13 @@ Before Makers I was a toy specialist, working in renowned toy stores in London. 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
 **Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
+
+## Projects
+| Project | Description | Technologies | Testing |
+| --- | --- | --- | --- |
+| [Key-J](https://github.com/JEC1100/key-j) | This was the last group Project I worked on at Makers. It is a web app for finding the musical attributes of a song and then comparing it to other songs. | Node.js, React.js, Express.js | Jest, Puppeteer |
+| [Gilded-Rose](https://github.com/YoFirmy/Gilded_Rose_Ruby) | This is my solution to the Gilded Rose Kata. The challenge is to refactor some legacy code and then from there implement a new feature. | Ruby | Rspec |
+| [Seddit](https://github.com/YoFirmy/seddit) | A Reddit Clone that I am working on. I am creating purely as a learning exercise | Ruby on Rails | Rspec, Capybara |
 
 ## Education
 #### Makers Academy (June to September 2021)
