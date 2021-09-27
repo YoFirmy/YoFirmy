@@ -1,4 +1,9 @@
-<h1 align='center'>Matt Firmston</h1>
+<div align='center'>
+
+# Matt Firmston
+[Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Where to find me](#Where-to-find-me)
+  
+</div>
 
 - :seedling: - I just finished a coding bookcamp with [Makers Academy](https://makers.tech/)
 - :computer: - I'm currently looking for a Junior Developer role
@@ -23,12 +28,6 @@
   <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
   <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 
-</div>
-<div align='center'>
-
-## Contents
-[Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Where to find me](#Where-to-find-me)
-  
 </div>
 
 ## Skills
