@@ -10,6 +10,7 @@
 <span align='right'>![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)</span>
 
 <div align='center'>
+  
   <h2>Languages and tools:</h2>
   <img alt="Visual Studio Code" width="50px" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png" />
   <img alt="HTML" width="50px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />
@@ -21,10 +22,11 @@
   <img alt="NodeJS" width="50px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
   <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
   <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
-</div>
 
-## Contents
+  <h2>Contents</h2>
 [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies) | [Where to find me](#Where-to-find-me)
+  
+</div>
 
 ## Skills
 **Languages/tools:** I mainly default to Ruby when writting logic but have also used a fair amount of HTML and CSS while learning to use Ruby on rails, I have used some JavaScript as well and would like to continue developing my skills with it.
