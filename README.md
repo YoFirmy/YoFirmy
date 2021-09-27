@@ -11,7 +11,7 @@
 - :dancers: - I love to collaborate
 - :guitar: - I love to play/write music! :metal:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)
+<!---![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)--->
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
 <div align='center'>
