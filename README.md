@@ -27,21 +27,21 @@
 </div>
 
 ## Background
-I started coding in November 2020. I have always been a fan of learning new skills (see the [Hobbies](#hobbies) section) so coding was just another skill to add to my repertoire. After a few months I had already learnt to build basic web applications and realised this was something that I wanted to do full time.
-I applied to study with Makers Academy where I not only developed my coding knowledge but also learnt to use good coding practices (see the [Education](#education) section). I have also taken on the role of mentoring two current Makers students so I can share what I've learnt and continue to practice what knowledge I gained while there.
+I started coding in November 2020. I have always enjoyed learning new skills (see the [Hobbies](#hobbies) section) so coding was just another skill to add to my repertoire. After a few months I had already built a basic web application and I realised this was something that I wanted to do full time.
+I applied to study with Makers Academy where I not only developed my coding knowledge but also learnt to use good coding practices (see the [Education](#education) section). I have also taken on the role of mentoring two current Makers students so I can share what I've learnt and continue to practice what knowledge I have gained whilst there.
 
-Before Makers I was a toy specialist, working in renowned toy stores in London. I gained a lot of customer service and management skills which I know will continue to serve me in the future.
+Prior to Makers Academy I was a toy specialist, working in renowned toy stores in London (see [Work Experience](#work-experience) below). I gained a lot of customer service and management skills which I know will continue to serve me in the future.
 
 ## Skills
 **Languages/tools:** I mainly default to Ruby and the Ruby on Rails framework, but I also feel comfortable writing in plain HTML and love experimenting with CSS to get interesting designs and visuals. I have used a fair amount of JavaScript as well and would like to continue developing my skills with it.
 
 **Leadership:** My last two previous jobs were in management. I feel I did well in those roles because I learnt how to balance the importance of leading by example and also knowing when to delegate.
 
-**Problem solving:** I problem solve on a daily basis as I love playing games that utalise problem solving. In fact my favourite PC game is a bomb defusal game (Keep Talking and Nobody Explodes). I solve rubik's cubes, nonograms, codewars and cssbattle challenges. Here is my codewars badge:
+**Problem solving:** Working in retail management I had to problem solve on a daily basis. In fact I developed this skill long before any work experience as most of my favourite games utilise problem solving. My favourite PC game is a bomb defusal game (Keep Talking and Nobody Explodes). I also solve rubik's cubes, nonograms, codewars and cssbattle challenges. Here is my codewars badge:
 <br/><br/>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
-**Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of a team or by myself and can do well with both.
+**Adaptable:** I have experience in adapting to different situations. For example, in my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of a team or as an individual.
 
 ## Projects
 | Project | Description | Technologies | Testing |
@@ -57,7 +57,6 @@ Before Makers I was a toy specialist, working in renowned toy stores in London. 
 - Worked in groups and used Agile programming and pair programming.
 - Primarily used Ruby but also worked with javascript.
 - Also used frameworks/tools such as Ruby on Rails, React.js and Node.js.
-- Mentored new students.
 
 #### ICMP/K college
 - BA Contemporary Music Performance.
