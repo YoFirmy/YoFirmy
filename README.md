@@ -6,8 +6,8 @@
 - :dancers: - I love to collaborate
 - :guitar: - I love to play/write music! :metal:
 
-<div align='left'>![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)</div>
-<div align='right'>![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)</div>
+<span align='left'>![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)</span>
+<span align='right'>![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)</span>
   
   
 ### Languages and tools:
