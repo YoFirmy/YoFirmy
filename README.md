@@ -17,7 +17,7 @@
 - :computer: - I'm currently looking for a Junior Developer role
 - :dart: - My aim is to become a full stack Developer
 - :dancers: - I love to collaborate
-- :guitar: - I love to play/write music! :metal:
+- :jigsaw: - I love to solve problems
 
 <!---![visitors](https://visitor-badge.glitch.me/badge?page_id=78556191)--->
 ---
@@ -33,11 +33,26 @@
 
 **Leadership:** My last two previous jobs were in management. I feel I did well in those roles because I learnt how to balance the importance of leading by example and also knowing when to delegate.
 
-**Problem solving:** I problem solve on a daily basis as I love playing games that utalise problem solving. I solve rubik's cubes, nonograms, codewars and cssbattle challenges. Here is my codewars badge:
+**Problem solving:** I problem solve on a daily basis as I love playing games that utalise problem solving. In fact my favourite PC game is a bomb defusal game (Keep Talking and Nobody Explodes). I solve rubik's cubes, nonograms, codewars and cssbattle challenges. Here is my codewars badge:
 <br/><br/>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/YoFirmy/badges/micro)
 
 **Adaptable:** I am used to working in all kinds of situations. In my last job I was a manager of a small circus store in Camden. It ranged from extremely busy on weekends to very quiet (sadly retail struggled through the pandemic) so I've learnt to work well as part of team or by myself and can do well with both.
+
+## Education
+#### Makers Academy (June to September 2021)
+- Learned to use object orientated programming.
+- Learned to employ Test Driven Development practices.
+- Worked in groups and used Agile programming and pair programming.
+- Primarily used Ruby but also worked with javascript.
+- Also used frameworks/tools such as Ruby on Rails, React.js and Node.js.
+- Mentored new students.
+
+#### ICMP/K college
+- BA Contemporary Music Performance.
+- Grade: Distinction.
+- Developed skills as a session musician and band leader.
+- Still play/write music today (see [Band of Wizzards](https://soundcloud.com/bandofwizzards/)).
 
 ## Work experience
 **Oddballs** (March 2018 to June 2021)  
@@ -45,19 +60,6 @@ _Store Manager_
 
 **Hamleys** (October 2014 to March 2018)  
 _Toy Expert_
-
-## Education
-#### Makers Academy (June to September 2021)
-- Primarily used Ruby but also worked with javascript.
-- Also used frameworks/tools such as Ruby on Rails, React.js and Node.js.
-- Learnt to use professional practices such as TDD.
-- Learnt to code as part of a team.
-
-#### ICMP/K college
-- BA Contemporary Music Performance.
-- Grade: Distinction.
-- Developed skills as a session musician and band leader.
-- Still play/write music today (see [Band of Wizzards](https://soundcloud.com/bandofwizzards/)).
 
 ## Hobbies
 **Skateboarding:** Skateboarding has taught me resilience. In order to learn new tricks I constantly have to put myself at risk of injury, and therefore, further outside of my comfort zone. Although skateboarding is a very physical activity, it's biggest challenge is a mental one: Battling with fear, which helps me to better myself in all aspects of life.
