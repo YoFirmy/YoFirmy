@@ -23,6 +23,7 @@
   <img alt="Git" width="50px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />
   <img alt="Github" width="50px" src="https://pics.freeicons.io/uploads/icons/png/10412341841540553610-512.png" />
 
+</div>
 <div align='center'>
 
 ## Contents
