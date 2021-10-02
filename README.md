@@ -56,7 +56,7 @@ I love being creative as is demonstrated by my being a musician and writing my o
 - I used my teamwork and communication skills to work effectively while pair programming and working in groups employing an Agile methodology.
 - My skills in time-management helped me to optimise my self-learning.
 - My love of learning and ability to learn rapidly allowed me to be successful in integrating a completely new tech stack to use in my final project.
-- I took on two students from a later cohort to mentor, putting into practice my emotional intelligence and empathy.
+- I took on two students from a later cohort to mentor, putting into practice my emotional intelligence and empathy in order to create an optimal learning environment.
 
 #### ICMP/K college - BA Contemporary Music Performance (2011 - 2014)
 - My discipline and ability to practice well earnt me a distinction grade overall with a distinction in guitar grade 8 and drums grade 7.
