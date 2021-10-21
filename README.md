@@ -26,7 +26,7 @@
 </div>
 
 ## Background
-I am a recent [Makers Academy](https://makers.tech/) graduate with a background as a specialist within the toy industry. I had a few roles in toy retail which all primarily focussed on communicating effectively with kids and parents. I was successful enough that I worked my way up to a store manager position (see [work experience](#work-experience) section) where I honed many more skills such as leadership, conflict resolution, decision making and more.
+I am a recent [Makers Academy](https://makers.tech/) graduate with a background as a specialist of many different brands and ranges within the toy industry, including Nerf, Star Wars, LeapFrog, yo-yo, circus toys, and more. All of these roles focussed on communicating effectively with kids and parents. I was successful enough that I worked my way up to a store manager position (see [work experience](#work-experience) section) where I honed many more skills such as leadership, conflict resolution, decision making and more.
 
 I studied music at college and university (see [education](#education) section) and worked as a session musician briefly afterwards. Working in a band has taught me a lot such as time management, teamwork, and discipline. I am a very creative person and still write and perform music to this day.
 
