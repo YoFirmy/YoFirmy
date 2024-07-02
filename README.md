@@ -72,9 +72,6 @@ I love being creative as is demonstrated by my being a musician and writing my o
 
 ## Work experience
 
-**Futurice** (November 2021 to present) - _Full Stack Developer_
-- 
-
 **Oddballs** (March 2018 to June 2021) - _Store Manager_
 - I managed staff including their training, hours, contracts and of course their well being. This  further developed my leadership skills, time management and emotional intelligence and empathy.
 - I used my communication skills with both customers and staff, always trying to lead by example. My usual method of training staff how to help customers was by doing so myself and opening up dialogue with staff as to what made different interactions with customers successful or not.
