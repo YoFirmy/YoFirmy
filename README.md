@@ -29,11 +29,15 @@
 </div>
 
 ## Background
-I am a recent [Makers Academy](https://makers.tech/) graduate with a background as a specialist of many different brands and ranges within the toy industry, including Nerf, Star Wars, LeapFrog, yo-yo, circus toys, and more. All of these roles focussed on communicating effectively with kids and parents. I was successful enough that I worked my way up to a store manager position (see [work experience](#work-experience) section) where I honed many more skills such as leadership, conflict resolution, decision making and more.
+I originally studied music at college and university (see [education](#education) section) and worked as a session musician briefly afterwards. Working in a band taught me a lot, such as time management, teamwork, and discipline. I am a very creative person; I still write and perform music to this day, and the creative element of front-end styling and animations is what I find most enjoyable when building products.
 
-I studied music at college and university (see [education](#education) section) and worked as a session musician briefly afterwards. Working in a band has taught me a lot such as time management, teamwork, and discipline. I am a very creative person and still write and perform music to this day.
+After studying music I ended up working in the toy industry, and ended up as a specialist of many different brands and ranges, including Nerf, Star Wars, LeapFrog, yo-yo, circus toys, and more. All of these roles focussed on communicating effectively with kids and parents. The knowledge and skills I developed during this time eventually earnt me a store manager position at the circus store Oddballs (see [work experience](#work-experience) section) where I honed many more skills such as leadership, conflict resolution, decision making and more.
 
-My passion for coding developed during the second lockdown. I have always enjoyed learning new skills and was seeking a new challenge, having already learnt how to unicycle, play guitar, skateboard, juggle, solve rubik’s cubes (I could go on, see [hobbies](#hobbies) section), so I finally turned to code. After a few months I had already built a basic web application and I realised that this was something that I wanted to do full time.
+My passion for coding developed during a covid lockdown. I have always enjoyed learning new skills and was seeking a new challenge, having already learnt how to unicycle, play guitar (and multiple other instruments), skateboard, juggle, solve rubik’s cubes (I could go on, see [hobbies](#hobbies) section), so I finally turned to code. After a few months I had already built a basic web application and I realised that this was something that I wanted to do full time.
+
+I completed a coding bootcamp with [Makers Academy](https://makers.tech/) back in 2021. The skills I had gained prior to Makers enabled me to excel during the course, often guiding others while pair programming. I worked with multiple languages and frameworks, had hands on practice in building applications, learnt to use TDD methodology which has served me well in my professional career, and also gained experience working in an agile team.
+
+After Makers Academy I very quickly found a position at [Futurice UK](https://futurice.com/office/uk). I have gained a huge amount of experience working at Futurice; it being a consultancy, I have had the oppurtinity to work with many different clients on many different projects with many different frameworks and tools. They have also shown me the importance of accessiblity in web development; something that I am now very passionate about, and am trying to learn more about in order to become an accessibility expert.
 
 ## Projects
 | Project | Description | Technologies | Testing |
